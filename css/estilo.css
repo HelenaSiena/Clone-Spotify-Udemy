@@ -63,6 +63,9 @@ nav.navbar-transparente {
     background-color: white;
     color: black;
 }
+.carousel-control-next, .carousel-control-prev { 
+    width: 3%;
+}
 /*Formatação de conteúdos*/
 .caixa {
     padding-top: 20px;
